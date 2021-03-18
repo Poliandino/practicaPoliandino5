@@ -58,4 +58,5 @@ html, body{
     background-color: azure;
     color:  chocolate;
     transform: rotate(360deg);
+    cursor: pointer;
 }
